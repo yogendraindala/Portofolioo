@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>BOLISETTI H N VALLI</title>
+</head>
+
+<body>
+  <!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero">
+            <h1><span>BOLISETTI H N VALLI</span></h1>
+          </a>
+        </div>
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#about" data-after="About">About</a></li>
+            <li><a href="#Education" data-after="Education">Education</a></li>
+            <li><a href="#services" data-after="Service">Achievements</a></li>
+            <li><a href="#projects" data-after="Projects">Projects</a></li>
+            <li><a href="#contact" data-after="Contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
+
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <div class="hero container">
+      <div>
+        <h1> Hi, I'm H N Valli</h1>
+          <center><a href="#projects" type="button" class="cta">Portfolio</a></center>
+      </div>
+    </div>
+  </section>
+  <!-- End Hero Section -->
+
+  <!-- About Section -->
+  <section id="about">
+    <div class="about container">
+      <div class="col-left">
+        <div class="about-img">
+          <img src="about me.jpg" alt="img">
+        </div>
+      </div>
+      <div class="col-right">
+        <h1 class="section-title">About <span>me</span></h1>
+        <h2>BOLISETTI H N VALLI</h2>
+        <h3>Student</h3>
+        <p>
+           <b>Technical Languages:</b> C, C++, Java, Python, Data Structures, HTML </br>
+           <b>Software	Applications:</b> Fundamentals of MS – office</br>
+           <b>Date of birth:</b> 28-01-2002</br>
+           <b>Languages known:</b> Telugu ,Hindi and English</br>
+           <b>Father’s name:</b> B Narayana</br>
+           <b>Mother’s name:</b>B Mohini </br>
+           <b>Personal Traits:</b> Good Communication,Problem solver Good team player, Creative and innovative, Hardworking and Honest</br>
+           <b>Hobbies:</b> Travelling and learning new things</br>
+           <b>Contact address:</b>Visakhapatnam, Andhra Pradesh</br>
+        </p>
+        
+      </div>
+    </div>
+  </section>
+  <!-- End About Section -->
+
+  <!--Education Section-->
+  <section id="Education">
+    <div class="Education container">
+      <div>
+        <h1 class="section-title"><span>Education </span></h1>
+      </div>
+      <div class="Education-items">
+        <div class="Education-item">
+          <div class="Education-info">
+            <h2><b>ACADEMIC YEAR 2020-2024</b></h2></br>
+            <h3><b>VIGNAN'S INSTITUTE OF ENGINEERING FOR WOMEN</b></h3></br>
+            <h3>B.Tech-INFORMATION TECHNOLOGY</h3></br>
+            <h3>CGPA-8.10 (till date)</h3></br>
+
+          </div>
+        </div>
+        <div class="Education-item">
+          <div class="Education-info">
+              <h2><b>ACADEMIC YEAR 2017-2019</b></h2></br>
+              <h3><b>SRI BASARA JUNIOR COLLEGE</b></h3></br>
+              <h3>MPC</h3></br>
+              <h3>CGPA-9.59</h3></br>
+          </div>
+        </div>
+        <div class="Education-item">
+          <div class="Education-info">
+              <h2><b>ACADEMIC YEAR 2016-2017</b></h2></br>
+              <h3><b>VIJNANA SADHANA EM SCHOOL</b></h3></br>
+              <h3>10TH (SSC)</h3></br>
+              <h3>CGPA-9.7</h3></br>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--End Education Section-->
+
+  <!-- Service Section -->
+  <section id="services">
+    <div class="services container">
+      <div class="services-top">
+        <h1 class="section-title"><span>Achievements</span></h1>
+        <p>Hello Users! I happy to share my Achievements with you all. </p>
+      </div>
+      <div class="service-bottom">
+        <div class="service-item">
+          <div class="icon"><a href="hackerrank python basic.jpg"</a><img src="hackerranklogo.jpg" /></div>
+          <h2>Programming in </br>Python</br><b>(Basic)</b></h2>
+          <p>I achived "Python(Basic)” Certificate from Hackerrank </p></br>
+          <a href="hackerrank python basic.jpg"><button>View Certificate</a></button>
+        </div>
+        <div class="service-item">
+          <div class="icon"><a href="google fundamentals.jpg"</a><img src="gogglelogo.jpg" /></div>
+          <h2> Technical </br>Support</br> Fundamentals</h2>
+          <p> I achieved Technical support fundamentals from Google </p></br>
+          <a href="google fundamentals.jpg"><button>View Certificate</a></button>
+        </div>
+        <div class="service-item">
+          <div class="icon"><a href="infosys html.jpg"</a><img src="springboardlogo.jpg" /></div>
+          <h2>Infosys Spring board</h2>
+          <p>I achived Certificate on Course Completion on Hyper Text Markup Language (HTML) from Infosys SpringBoard</p></br>
+          <a href="infosys html.jpg"><button>View Certificate</a></button>
+        </div>
+        <div class="service-item">
+          <div class="icon"><a href="infosys javascript.jpg"</a><img src="springboardlogo.jpg" /></div>
+          <h2>Infosys <br>Spring board</h2>
+          <p> I achived Certificate on Course Completion on Java Script from Infosys SpringBoard</p></br>
+          <a href="infosys javascript.jpg"><button>View Certificate</a></button>
+        </div>
+        <div class="service-item">
+          <div class="icon"><a href="tcs career edge.jpg"</a><img src="tcslogo.jpg" /></div>
+          <h2>TCS ion career Edge- Young Professional</h2>
+          <p>Learned about Soft skills, Interview skills,Email writing ,IT foundation skills,Business Etiquette</p></br>
+          <a href="tcs career edge.jpg"><button>View Certificate</a></button>
+        </div>
+        
+        <div class="service-item">
+          <div class="icon"><a href="udemy python certificate h.pdf"</a><img src="udemy.jpg" /></div>
+          <h2>Python course for <br>complete beginners</h2>
+          <p>I Certified “Python complete course for python beginner to advance level” total 75 hours Course on Udemy.</p></br>
+          <a href="udemy python certificate h.pdf"><button>View Certificate</a></button>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  <!-- End Service Section -->
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="projects container">
+      <div class="projects-header">
+        <h1 class="section-title"><span>Projects</span></h1>
+      </div>
+      <div class="all-projects">
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Project 1</h1>
+            <h2>INTELLIGENT TIC TAC TOE SOLVER/h2>
+            <p>I had worked on Machine Learning <br>
+              using MIN-MAX algorithm computer will play the tic tac toe game in an efficient way ,System will tries to win in the game.</p>
+          </div>
+          <div class="project-img">
+            <img src="machine learning.jpg" alt="img">
+          </div>
+        </br>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Project 2</h1>
+            <h2>CLAP SWITCH USING ARDUINO</h2>
+            <p>We had done an loT project using sound sensor, that when clap the poster will aunch. While sound
+sensor sense the clap sound turn on the motor gets start running and i rotates the pipe. The poster attached to the pipe
+while pipe get rotates poster opens slowly.</p>
+          </div>
+          <div class="project-img">
+            <img src="R.png" alt="img">
+          </div>
+        </div>
+        <!--div class="project-item">
+          <div class="project-info">
+            <h1>Project 3</h1>
+            <h2>Coding is Love</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
+              rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
+              harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
+          </div>
+          <div class="project-img">
+            <img src="./img/img-1.png" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Project 4</h1>
+            <h2>Coding is Love</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
+              rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
+              harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
+          </div>
+          <div class="project-img">
+            <img src="./img/img-1.png" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Project 5</h1>
+            <h2>Coding is Love</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
+              rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
+              harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
+          </div>
+          <div class="project-img">
+            <img src="./img/img-1.png" alt="img">
+          </div-->
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Projects Section -->
+
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="contact container">
+      <div>
+        <h1 class="section-title"><span>Contact </span></h1>
+      </div>
+      <div class="contact-items">
+        <div class="contact-item">
+          <div class="icon"><img src="cal.jpg" /></div>
+          <div class="contact-info">
+            <h1>Phone</h1>
+            <h2>+91 8688456786</h2>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="icon"><img src="email.jpg" /></div>
+          <div class="contact-info">
+            <h1>Email</h1>
+            <h2>20nm1a1204@view.edu.in</h2>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="icon"><img src="hm.jpg" /></div>
+          <div class="contact-info">
+            <h1>Address</h1>
+            <h2> Vishakapatnam, Andhra Pradesh</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Contact Section -->
+
+  <!-- Footer -->
+  <section id="footer">
+    <div class="footer container">
+      <div class="brand">
+      </div>
+      <h1 class="section-title"><span>code portfolio</span></h1>
+      <div class="social-icon">
+        <div class="social-item">
+          <a href="#"><img src="wp.jpg" /></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="insta.jpg" /></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="fb.jpg" /></a>
+        </div>
+        <!--div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/behance.png" /></a>
+        </div-->
+      </div>
+      <p>Copyright © 2023 India. All rights reserved</p>
+    </div>
+  </section>
+  <!-- End Footer -->
+  <script src="./app.js"></script>
+</body>
+
+</html>
